@@ -1,4 +1,4 @@
-﻿/*
+/*
     MIT License
 
     Copyright (c) 2016-2020 Raúl Ramos
